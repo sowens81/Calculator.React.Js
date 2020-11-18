@@ -19,6 +19,13 @@ cd ./src/calculator.app/
 npm start
 ```
 
+## Run Unit Tests
+
+```bash
+cd ./src/calculator.app/ 
+npm test
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
