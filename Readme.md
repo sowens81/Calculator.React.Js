@@ -2,6 +2,8 @@
 
 A React.JS Demo calculator application.
 
+Application demo can be found here - [Calculator Demo](https://sowens81.github.io/Calculator.React.Js/).
+
 ## Installation
 
 Use the package manager [npm](https://nodejs.org/en/) part of node.js to install dependencies.

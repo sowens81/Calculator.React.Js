@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sowens81/Calculator.React.Js.git"
   },
-  "homepage": "https://sowens81.github.io/calculator",
+  "homepage": "https://sowens81.github.io/Calculator.React.Js/",
   "author": "Steve Owens <UKAzDevs@outlook.com>",
   "private": true,
   "devDependencies": {
