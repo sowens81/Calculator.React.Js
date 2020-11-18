@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "riteway **/*-test.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "riteway": "^6.2.1"
   }
 }
