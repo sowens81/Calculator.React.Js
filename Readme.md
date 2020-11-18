@@ -1,4 +1,5 @@
 # Calculator.React.Js
+![CI/CD](https://github.com/sowens81/Calculator.React.Js/workflows/Calculator.App CI/CD/badge.svg)
 
 A React.JS Demo calculator application.
 

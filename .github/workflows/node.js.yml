@@ -1,4 +1,4 @@
-name: Calculator.App CI/CD
+name: calculator_cicd
 
 on:
   push:
