@@ -1,6 +1,7 @@
 # Calculator.React.Js
 ![CI/CD](https://github.com/sowens81/Calculator.React.Js/workflows/calculator_cicd/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-A React.JS Demo calculator application.
+
+A React.JS Demo calculator application with unit tests.
 
 Application demo can be found here - [Calculator Demo](https://sowens81.github.io/Calculator.React.Js/).
 
